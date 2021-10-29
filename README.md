@@ -29,7 +29,7 @@ Pretty standard
 
 
 ## Screenshots
-https://github.com/BenjaminMills/Tea-cozy/blob/main/Img/screenshot.jpg.JPG
+https://github.com/BenjaminMills/Tea-cozy/blob/main/Img/screenshot.JPG
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
