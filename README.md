@@ -29,7 +29,7 @@ Pretty standard
 
 
 ## Screenshots
-![Example screenshot](img/screenshot.jpg)
+![Example screenshot] (https://github.com/BenjaminMills/Tea-cozy/blob/main/pics/example.JPG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
