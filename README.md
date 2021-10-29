@@ -29,7 +29,7 @@ Pretty standard
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.jpg)
+![Example screenshot](img/screenshot.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
